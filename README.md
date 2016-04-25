@@ -1,2 +1,2 @@
 # Accessibility
-This repository is used to work on adding accessbility into the Joomla! core.
+This repository is used to work on adding accessibility into the Joomla! core.
