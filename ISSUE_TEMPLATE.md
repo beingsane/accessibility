@@ -1,5 +1,5 @@
-## [x.x.x] Descriptive Title
-The x.x.x is the criteria code for example 2.4.1
+## [XX x.x.x] Descriptive Title
+The XX is the area and x.x.x is the criteria code for example 2.4.1
 
 ### Description of the issue
 Explain in detail what the problem is that needs to be resolved or feature that needs to be implemented.
